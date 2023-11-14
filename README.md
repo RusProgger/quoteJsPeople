@@ -1,0 +1,2 @@
+# quoteJsPeople
+цитаты
