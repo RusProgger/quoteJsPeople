@@ -1,2 +1,2 @@
 # quoteJsPeople
-цитаты
+цитаты https://rusprogger.github.io/quoteJsPeople/
